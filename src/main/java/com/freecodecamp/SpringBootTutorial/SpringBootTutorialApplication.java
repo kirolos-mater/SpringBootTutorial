@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootTutorialApplication {
 
 	public static void main(String[] args) {
-		var hello = 2;
 		SpringApplication.run(SpringBootTutorialApplication.class, args);
 	}
 
